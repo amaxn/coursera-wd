@@ -4,3 +4,13 @@
 .content{
 	width: 100%;
 }
+@media (min-width: 992px){
+	.box-m{
+		float: left;
+		border: 2px solid black;
+	}
+
+	.box-m{
+		width:33.33%;
+	}
+}
