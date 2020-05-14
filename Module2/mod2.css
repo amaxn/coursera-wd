@@ -5,12 +5,23 @@
 	width: 100%;
 }
 @media (min-width: 992px){
-	.box-m{
+	.box-d{
 		float: left;
 		border: 2px solid black;
 	}
 
-	.box-m{
+	.box-d{
 		width:33.33%;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	.box-t{
+		float: left;
+		border: 2px solid black;
+	}
+
+	.box-t{
+		width: 10;
 	}
 }
