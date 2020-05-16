@@ -16,7 +16,7 @@ h1{
 	border-top: .5px dashed red;
 	border-bottom:  .5px dashed black;
 	width: 25%;
-	font-size: 2.5em;
+	font-size: 175%;
 	margin-left:auto;
 	margin-right: auto;
 	color: #00300f;
@@ -63,6 +63,7 @@ section{
 	padding: 10px;
 	clear: right;
 	font-family: 'Nunito', sans-serif;
+	font-size: 100%;
 	margin: 0;
 }
 /*basic styling ends*/
